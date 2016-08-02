@@ -46,7 +46,6 @@
 	max-width: 1000px;
 }
 
-/*
 .onerow {
 	margin-left: -14px;
 	margin-right: -14px;
@@ -60,12 +59,13 @@
 .onerow:after {
   clear: both;
 }
-*/
+
+/*
 .onerow {
 	clear: both;
 	padding: 0 10px;
 }
-
+*/
 
 
 
